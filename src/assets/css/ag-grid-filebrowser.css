@@ -1,0 +1,93 @@
+/*
+ * Author : Rajkamal
+ * Description : Variables for Styles
+ * 
+*/
+/**
+ * Font styles
+ */
+/**
+ * Color Styles
+ */
+/**
+ * Icon styles
+ */
+/**
+ * Badge styles
+ */
+/**
+ * Text color styles
+ */
+/**
+ * Width styles
+ */
+/**
+ * Background styles
+ */
+.ag-file-browser .ag-root {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; }
+
+.ag-file-browser .ag-cell {
+  padding: 10px; }
+
+.ag-file-browser .ag-column-moving .ag-cell {
+  -webkit-transition: left 0.2s;
+  transition: left 0.2s; }
+
+.ag-file-browser .ag-header-cell-moving .ag-header-cell-label {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0); }
+
+.ag-file-browser .ag-header-cell-moving {
+  background-color: #bebebe; }
+
+.ag-file-browser .ag-header-cell-moving-clone {
+  border-right: 1px solid #808080;
+  border-left: 1px solid #808080;
+  background-color: rgba(220, 220, 220, 0.8); }
+
+.ag-file-browser .ag-header {
+  background: #fff;
+  border-bottom: 1px solid #d7d7d7; }
+
+.ag-file-browser .ag-header-cell {
+  /* border-right: 1px solid grey; */ }
+
+.ag-file-browser .ag-header-cell-label {
+  padding: 0px 10px;
+  text-align: left; }
+
+.ag-file-browser .ag-row:hover {
+  background-color: aliceblue; }
+
+.ag-file-browser .ag-row {
+  background-color: white; }
+
+.ag-file-browser .ag-body {
+  background-color: #ffffff; }
+
+.ag-file-browser .ag-body-viewport {
+  background-color: #ffffff; }
+
+.ag-file-browser .ag-menu {
+  background-color: #ffffff;
+  border: 1px solid grey; }
+
+.ag-header span.ag-header-cell-text {
+  color: #a9a9a9; }
+
+.ag-cell {
+  font-weight: bold;
+  color: #424242; }
+
+.ag-group-value img {
+  width: 24px; }
+
+.ag-header {
+  height: 25px !important; }
+
+.ag-body {
+  top: 25px !important; }
+
+/*# sourceMappingURL=ag-grid-filebrowser.css.map */
